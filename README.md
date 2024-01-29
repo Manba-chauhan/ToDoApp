@@ -15,21 +15,21 @@ A simple and elegant todo list application built using React.js. Organize your t
 ## How to Use 📋
 1. Clone this repository to your local machine.<br>
     ```
-   git clone https://github.com/Manba-chauhan/React-Todo-App.git 
+   git clone https://github.com/Manba-chauhan/ToDoApp.git
    
 1. Install the necessary dependencies using npm install. <br>
    ```
-   cd React-Todo-App
+   cd ToDoApp
    npm install
    
 1. Run the app with npm start. <br>
    ```
-    npm start
+    npm run dev
    
 1. Start managing your tasks and enjoy a clutter-free day!
    # Screenshots 🖼️
 
- ![Screenshot (24)](https://github.com/Manba-chauhan/React-Todo-App/assets/113258238/432da131-d2ea-49eb-bd08-f53ca5180fe9)
+   ![todo](https://github.com/Manba-chauhan/ToDoApp/assets/113258238/386e8c4f-c90d-4f57-ab01-b2e7e65620a3)
 
 
 ## Contributing 🤝
